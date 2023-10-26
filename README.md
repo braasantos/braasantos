@@ -1,16 +1,22 @@
-### Hi there 👋
+# ABOUT ME 
+<p>I'm currently 23 years old, i was born and raised in Luanda, Angola.
+Im studying in one of the best programming schools know to humanity, where we learn from our peers and "alone", 42 Porto. </p>
 
-<!--
-**braasantos/braasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=braasantos&show_icons=true&theme=dracula)
+</div>
+
+___
+
+## Skills 
+
+<div align=center>
+	<img src="https://i.imgur.com/wgik4Wp.png" height="70px" widht="70px" alt="HTML">
+	<img src="https://i.imgur.com/IycOl6h.png" height="70px" widht="70px" alt="CSS">
+	<img src="https://i.imgur.com/eJU75IJ.png" height="70px" widht="70px" alt="JavaScript">
+	<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode" height="70px" widht="70px" alt="C Programming Language"/>
+</div>
