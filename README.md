@@ -2,7 +2,12 @@
 <p>I'm currently 23 years old, i was born and raised in Luanda, Angola.
 But now im studying in one of the best programming schools know to humanity, where we learn from our peers and "alone", 42 Porto. </p>
 
-___
+<div align="center">
+	
+[![bjorge-m's 42 stats](https://badge.mediaplus.ma/darkblue/bjorge-m?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</div>
+<h1></h1>
 
 <div align="center">
 
