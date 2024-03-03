@@ -1,5 +1,5 @@
 # ABOUT ME 
-<p>I'm currently 23 years old, i was born and raised in Luanda, Angola.
+<p>I'm currently 24 years old, i was born and raised in Luanda, Angola.
 But now im studying in one of the best programming schools know to humanity, where we learn from our peers and "alone", 42 Porto. </p>
 
 <div align="center">
