@@ -18,13 +18,10 @@ ___
 
 ## Skills 
 
-<div align="center">
-    <img src="https://i.imgur.com/wgik4Wp.png" height="70px" width="70px" alt="HTML">
-    <img src="https://i.imgur.com/IycOl6h.png" height="70px" width="70px" alt="CSS">
-    <img src="https://i.imgur.com/eJU75IJ.png" height="70px" width="70px" alt="JavaScript">
-    <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language">
-        <img src="https://i.imgur.com/2tkmLF2.png" height="70px" width="70px" alt="C Programming Language">
-    </a>
-    <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode" height="70px" width="70px" alt="C Programming Language">
+<div align=center>
+	<img src="https://i.imgur.com/wgik4Wp.png" height="70px" widht="70px" alt="HTML">
+	<img src="https://i.imgur.com/IycOl6h.png" height="70px" widht="70px" alt="CSS">
+	<img src="https://i.imgur.com/eJU75IJ.png" height="70px" widht="70px" alt="JavaScript">
+	<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode" height="70px" widht="70px" alt="C Programming Language"/>
 </div>
-
