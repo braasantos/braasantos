@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm 24 years old, born and raised in Luanda, Angola. Currently, I am studying at 42 Porto, one of the premier programming schools known for its innovative peer-learning and independent study approach.
+I'm 25 years old, born and raised in Luanda, Angola. Currently, I am studying at 42 Porto, one of the premier programming schools known for its innovative peer-learning and independent study approach.
 
 <div align="center">
 	
@@ -53,5 +53,5 @@ The Dining Philosophers problem is a classic synchronization problem in concurre
 ## 🎉 Fun Facts
 
 - Currently Learning: C, C++, SQL & Bash Scripting
-- Currently Reading : Pilgrim's Progress 2: Christiana's Story.
+- Currently Reading : The biography of Steve Jobs.
 - Favorite Quote: "The only way to do great work is to love what you do." - Steve Jobs
