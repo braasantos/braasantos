@@ -52,6 +52,6 @@ The Dining Philosophers problem is a classic synchronization problem in concurre
 ---
 ## 🎉 Fun Facts
 
-- Currently Learning: C, C++, SQL & Bash Scripting
+- Currently Learning: Javascript & Djnago
 - Currently Reading : The biography of Steve Jobs.
 - Favorite Quote: "The only way to do great work is to love what you do." - Steve Jobs
